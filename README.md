@@ -1,5 +1,4 @@
 # ece_194HW2
-# ECE_194N
 
 # 1) CIFAR-10 CNN
 The goal of this assignment was to train a model with convolutional nueral network for CIFAR-10 dataset and predict the same u
